@@ -1,0 +1,7 @@
+Data Scientist (Fresher / 0-2 years)
+
+We are looking for a Data Scientist to build machine learning models and dashboards for our analytics team.
+You should hold a Bachelor's degree in Computer Science, Statistics or a related field and have 1+ years of experience
+(internships count). Strong Python and SQL skills are required, along with hands-on experience in pandas, numpy,
+scikit-learn and data visualization (matplotlib or Power BI). Knowledge of NLP, Git and Docker is a plus.
+You will clean data, run exploratory data analysis, train and evaluate models, and present insights to stakeholders.

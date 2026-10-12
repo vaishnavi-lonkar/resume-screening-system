@@ -1,0 +1,27 @@
+Priya Sharma
+priya.sharma@example.com | +91 98765 43210 | github.com/priyasharma
+
+SUMMARY
+Data science graduate with hands-on experience in machine learning, NLP and dashboards.
+
+EDUCATION
+B.Tech in Computer Science, Pune Institute of Technology, 2020 - 2024
+
+EXPERIENCE
+Data Science Intern, Insight Labs, Jun 2023 - Present
+- Built churn prediction models using Python, pandas and scikit-learn
+- Created Power BI dashboards and ran exploratory data analysis on SQL data
+Junior Analyst, DataWorks, Jan 2022 - May 2023
+- Wrote SQL queries and used Git for version control
+
+SKILLS
+Python, SQL, pandas, numpy, scikit-learn, NLP, Power BI, matplotlib, Git, Docker
+
+PROJECTS
+Resume Classifier
+- NLP pipeline using spaCy and scikit-learn
+House Price Prediction
+- Regression with XGBoost
+
+CERTIFICATIONS
+Google Data Analytics Professional Certificate

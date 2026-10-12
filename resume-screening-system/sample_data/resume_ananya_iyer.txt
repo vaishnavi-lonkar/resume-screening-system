@@ -1,0 +1,18 @@
+ANANYA IYER
+ananya.iyer@example.com | +91 99887 76655
+
+EDUCATION
+M.Sc. in Statistics, University of Pune, 2021 - 2023
+
+WORK EXPERIENCE
+Machine Learning Engineer, Brightpath AI, Aug 2023 - Present
+- Trained deep learning and NLP models with PyTorch and Hugging Face transformers
+- Deployed APIs with FastAPI and Docker on AWS
+Data Analyst Intern, Numeric, Jan 2023 - Jul 2023
+- Python, SQL, pandas, Tableau reporting
+
+TECHNICAL SKILLS
+Python, SQL, PyTorch, scikit-learn, pandas, numpy, Docker, AWS, Git, Tableau
+
+CERTIFICATIONS
+AWS Certified Cloud Practitioner
